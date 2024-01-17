@@ -48,5 +48,6 @@ input:focus{
     flex-direction: column;
     color: rgb(31, 28, 28);
     margin-bottom: 30px;
+    height: 50vh;
   }
 }
