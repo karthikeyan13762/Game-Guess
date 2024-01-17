@@ -25,7 +25,7 @@ function Result({SecretNumber,terms}) {
 
   return (
     <div>
-    <h3>You Gussed: {result}</h3>
+    <h3>You Guessed: {result}</h3>
     </div>
   )
 }
